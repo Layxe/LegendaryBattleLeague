@@ -1,0 +1,14 @@
+- Get the 4 most played champions of the player and the mastery score on them.
+- Every champion has constant stats: For example the attack, defense and ability power.
+    -> These values can be every number between 1 and 10
+This number is also being multiplied by the (mastery score divided by 200k + 1)
+  -> This is how the calculation looks like:
+    totalAD += championX-AD * ( championX-masteryScore / 200000 + 1 )
+    -> That means if someone has a mastery score of 200k on a champion the stats of this
+       champion are going to be multiplied by 2
+So the total amount of attack power etc. will be calculated from the 4 champions.
+
+At the end these stats are going to be multiplied / divided to add some balance.
+attackPoints  = totalAD*3
+healthPoints  = totalDEF / 4 * 100
+abilityPoints = totalAP * 4
