@@ -31,3 +31,7 @@ Also this game currently only works for summoners on the EUW server, sorry!**
 - If you find a bug, which is reproducible please add a new issue [here](https://github.com/Layxe/LegendaryBattleLeague/issues).
 - If you are using the GitHub Project to host your own game, please disable the account verification in the Search.php file.
   This can be done by simply changing the value of $disableVerification on line 11 from false to true. I made a mistake, which I will correct after the challenge! Btw. this works properly at the demonstration page!
+
+### -----
+
+**LegendaryBattleLeague isn’t endorsed by Riot Games and doesn’t reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.**
