@@ -14,7 +14,8 @@ by your 4 most played champions and also your health points are calculated by th
 
 ### How to play
 To play the game you can just visit the web-site [here](http://www.layxe.meinsh.eu) <br>
-**Keep in mind, that the game is in a really early stage, so there might be some bugs!**
+**Keep in mind, that the game is in a really early stage, so there might be some bugs.
+Also this game currently only works for summoners on the EUW server, sorry!**
 
 ### Browser Support
 - Tested on:
@@ -25,6 +26,6 @@ To play the game you can just visit the web-site [here](http://www.layxe.meinsh.
 ### Interesting Facts
 - Annie is really overpowered
 - Yorick has no use
-
+tly
 ### Bugs
 - If you find a bug, which is reproducible please add a new issue [here](https://github.com/Layxe/LegendaryBattleLeague/issues).
