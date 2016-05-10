@@ -26,6 +26,6 @@ Also this game currently only works for summoners on the EUW server, sorry!**
 ### Interesting Facts
 - Annie is really overpowered
 - Yorick has no use
-tly
+
 ### Bugs
 - If you find a bug, which is reproducible please add a new issue [here](https://github.com/Layxe/LegendaryBattleLeague/issues).
