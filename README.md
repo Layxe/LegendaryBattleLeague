@@ -13,7 +13,7 @@ play with your friend ( or a stranger ).
 by your 4 most played champions and also your health points are calculated by these informations. Your stats ( attack damage, ability power and health ) are also being increased by your champion mastery score. You can find further informations to this calculation in the "calculations.txt" file.
 
 ### How to play
-To play the game you can just visit the web-site [here](http://www.layxe.meinsh.eu) <br>
+Currently there is no server running the game
 **Keep in mind, that the game is in a really early stage, so there might be some bugs.
 Also this game currently only works for summoners on the EUW server, sorry!**
 
@@ -22,15 +22,6 @@ Also this game currently only works for summoners on the EUW server, sorry!**
   - Internet Explorer 11
   - Mozilla Firefox 46
   - Google Chrome 50
-
-### Interesting Facts
-- Annie is really overpowered
-- Yorick has no use
-
-### Bugs
-- If you find a bug, which is reproducible please add a new issue [here](https://github.com/Layxe/LegendaryBattleLeague/issues).
-- If you are using the GitHub Project to host your own game, please disable the account verification in the Search.php file.
-  This can be done by simply changing the value of $disableVerification on line 11 from false to true. I made a mistake, which I will correct after the challenge! Btw. this works properly at the demonstration page!
 
 ### -----
 
